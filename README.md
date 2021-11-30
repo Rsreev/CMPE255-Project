@@ -8,7 +8,8 @@ Song Release Year and Decade prediction using three different algorithms
 Summary: Prediction of the release year of a song from audio features.
 
 Data: https://archive.ics.uci.edu/ml/machine-learning-databases/00203/
-(Since the data size is large, it cannot be uploaded on GitHub)
+
+Sample Data: Dataset with 10000 records uploaded on this repository. (Please change the input file name, and values for test and train dataset split.)
 
 Steps to run:
 1. Download the zip file.
