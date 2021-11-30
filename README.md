@@ -1,6 +1,6 @@
 CMPE 255 Team Project
 
-Song and Decade prediction using three different algorithms
+Song Release Year and Decade prediction using three different algorithms
 1. Gradient Boost
 2. SVM
 3. KNN
